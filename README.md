@@ -1,5 +1,5 @@
 
-#### command
+### command
 `docker-compose up -d php-fpm nginx mysql`
 
 ```

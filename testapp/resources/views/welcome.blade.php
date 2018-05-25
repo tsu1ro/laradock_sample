@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    hogheohgoehogheohog
+                    Welcome to laradock!!
                 </div>
 
                 <div class="links">
